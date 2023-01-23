@@ -69,3 +69,11 @@ int main()
     return 0;
 
 }
+// output:-
+// Enter the number of tasks: 3
+// Enter the time taken by each task on vm1: 140 20 60
+// Enter the time taken by each task on vm2: 100 100 70
+// Task 2 is scheduled on vm1 and finishes at 20
+// Task 1 is scheduled on vm2 and finishes at 100
+// Task 3 is scheduled on vm1 and finishes at 80
+// Total processing time: 100
